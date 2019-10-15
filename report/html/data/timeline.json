@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-1H2AOV4",
+    "children" : [ {
+      "name" : "11212-MainThread",
+      "children" : [ {
+        "name" : "TestAllure.test_login",
+        "uid" : "d298f23af03ce318",
+        "parentUid" : "74ad99f29b6cd6183d2b02860bd5d88a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571114434123,
+          "stop" : 1571114434130,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74ad99f29b6cd6183d2b02860bd5d88a"
+    } ],
+    "uid" : "c9520d016f976e2c97e9056a50ee34f9"
+  } ]
+}
